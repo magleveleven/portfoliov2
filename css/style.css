@@ -1,0 +1,105 @@
+
+  body {
+    background-color: rgb(189, 214, 221);
+    background-image: url("images/finaldays.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  nav {
+    background: linear-gradient(to right, rgba(227, 235, 235, 0.05), rgba(46, 48, 48, 0.35));
+    box-shadow: 0 0 0 0;
+    height: 85px;
+    margin-top: 12px;
+    color: #723e09;
+
+  }
+
+  h2 {
+      color: #723e09;
+      font-size: 30px;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+  }
+
+ 
+  .branding {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    color: #302c28;
+}
+
+.mont {
+    margin-left: 12px;
+}
+
+.myname {
+    margin-left: 20px;
+    color: #723e09;
+
+
+}
+
+#nav-mobile {
+    margin-right: 180px;
+}
+
+nav .brand-logo {
+    color: #723e09;
+
+}
+
+nav ul a {
+    color: #302c28;
+    ;
+
+}
+
+.brandish {
+    color: #302c28;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.formbox {
+    background-color: rgb(122, 122, 122);
+    margin-top: 50px;
+}
+
+.input-field>label {
+    color: #723e09;
+}
+.input-field>input {
+    color: white;
+}
+.input-field>textarea {
+    color: white;
+}
+label {
+    color: white;
+}
+
+.skillhead {
+    color: #723e09;
+
+}
+
+.skillsubhead {
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    font-style: italic
+
+}
+.skillp{
+    color: white;
+    font-size: 16px;
+    margin-left: 40px;
+
+}
+.skillp2{
+    color: white;
+    font-size: 14px;
+    margin-left: 50px;
+
+}
