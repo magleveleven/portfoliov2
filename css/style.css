@@ -103,3 +103,25 @@ label {
     margin-left: 50px;
 
 }
+
+.card-image{
+    width: 300px; 
+    overflow: hidden;
+}
+.card {
+    width: 300px; 
+    overflow: hidden;
+    margin-left: 20px;
+}
+
+.portpanel {
+    width: 75%;
+    margin-left: 100px;
+    margin-top: 40px;
+    background-color: rgba(255, 255, 255, 0.199);
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+    color: #723e09;
+    text-align: center;
+}
